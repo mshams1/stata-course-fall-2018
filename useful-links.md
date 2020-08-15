@@ -16,7 +16,7 @@
   * If and True/False
     * idre Stata FAQ: What is true and false in Stata? (https://www.stata.com/support/faqs/data-management/true-and-false/)
     * idre Stata Learning Modules: Using IF with Stata commands (https://stats.idre.ucla.edu/stata/modules/using-if-with-stata-commands)
-* Data Managemnt
+* Data Management
   * Labeling
     * UNC Introduction to Stata: Value labels (https://www.cpc.unc.edu/research/tools/data_analysis/statatutorial/documenting/vallabel)
     * idre Stata Learning Modules: Labeling data (https://stats.idre.ucla.edu/stata/modules/labeling-data/)  
